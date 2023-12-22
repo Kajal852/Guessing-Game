@@ -1,0 +1,46 @@
+#head{   
+    width: 197vh;
+    height: 98vh;  
+    background-image: url('./jpe.jpg'); 
+    background-repeat: no-repeat; 
+    background-size: 1850px; 
+    border: 1px dotted black;
+    background-position: center;
+}
+
+input{
+    padding: 10px;
+    border-radius: 15px;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 300px;
+    height: 50px;
+}
+button{
+    padding: 10px 10px;
+    background-color: darkcyan;
+    color: white;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 120px;
+    height: 50px;
+}
+
+h1{
+    font-size: 45px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#displayedText{
+    color: rgb(65, 1, 125);
+    font-size: 3em;
+    font-family: cursive;
+}
+
+#msg{
+    color: black;
+    font-size: 2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
